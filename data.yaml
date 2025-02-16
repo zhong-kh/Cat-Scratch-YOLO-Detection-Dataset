@@ -1,0 +1,8 @@
+path: path\to\your\dataset
+train: path\to\your\train
+val: path\to\your\val
+test:
+
+names:
+ 0: Cat_Scratching
+ 1: Car_Normal
